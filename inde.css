@@ -258,3 +258,20 @@ body {
 
     }
 }
+
+@media (max-width: 331px) {
+    .icone-olho{
+        left: 260px;
+        top: 170px;
+    }
+    .email,
+    .senha{
+        height: 50px;
+    }
+    .botao{
+        height: 50px;
+    }
+    .esqueceu{
+        top: 180px;
+    }
+}
